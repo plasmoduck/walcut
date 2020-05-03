@@ -1,3 +1,4 @@
+![Image description](walcut.gif)
 # walcut
 **Cut line 17 from pywal dwm**
 
